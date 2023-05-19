@@ -1,0 +1,33 @@
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\bin\Debug\Lab3.exe.config
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\bin\Debug\Lab3.exe
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\bin\Debug\Lab3.pdb
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\obj\Debug\Lab3.exe
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\obj\Debug\Lab3.pdb
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\obj\Debug\Lab3.StudentForm.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Lab3\obj\Debug\Lab3.EditStudentForm.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\bin\Debug\Lab3.exe.config
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\bin\Debug\Lab3.exe
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\bin\Debug\Lab3.pdb
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\obj\Debug\Lab3.EditStudentForm.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\obj\Debug\Lab3.StudentForm.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\obj\Debug\Lab3.exe
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты) Lab3\obj\Debug\Lab3.pdb
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\bin\Debug\Lab3.exe.config
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\bin\Debug\Lab3.exe
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\bin\Debug\Lab3.pdb
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\obj\Debug\Lab3.EditStudentForm.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\obj\Debug\Lab3.StudentForm.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\obj\Debug\Lab3.exe
+D:\Google Диск\АДИЩЕ\СЯП\л3\Рябова (С# студенты)\Рябова (С# студенты) Lab3\obj\Debug\Lab3.pdb
